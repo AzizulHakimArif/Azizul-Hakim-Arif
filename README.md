@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizulhakimarif&label=Profile%20views&color=0e75b6&style=flat" alt="azizulhakimarif" /> </p>
 
-- 🔭 I’m currently working on [Smart Car Parking System](https://github.com/AzizulHakimArif/WT_FALL_2022-23/tree/main/MID%20PROJECT-%20CAR%20PARKING)
+- 🔭 I’m currently working on [Smart Car Parking System(Completed)](https://github.com/AzizulHakimArif/WT_FALL_2022-23/tree/main/MID%20PROJECT-%20CAR%20PARKING)
 
 - 🌱 I’m currently learning **Laravel and ASP.Net**
 
