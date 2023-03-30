@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Smart Car Parking System(Completed)](https://github.com/AzizulHakimArif/WT_FALL_2022-23/tree/main/MID%20PROJECT-%20CAR%20PARKING)
 
-- 🌱 I’m currently learning **Laravel and ASP.Net**
+- 🌱 I’m currently learning **ASP.Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AzizulHakimArif?tab=repositories](https://github.com/AzizulHakimArif?tab=repositories)
 
