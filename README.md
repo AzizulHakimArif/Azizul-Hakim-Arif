@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-movie ticket System(Completed)](https://github.com/AzizulHakimArif/E-movieez)
 
-- 🌱 I’m currently learning **ASP.Net**
+- 🌱 I’m currently learning **Laravel & React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AzizulHakimArif?tab=repositories](https://github.com/AzizulHakimArif?tab=repositories)
 
