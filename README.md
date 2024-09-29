@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Taskmate-React(Completed)](https://taskmatebyarif.netlify.app/)
 
-- 🌱 I’m currently learning **ASP>NET MVC and .NET CORE**
+- 🌱 I’m currently learning **ASP.NET MVC and .NET CORE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AzizulHakimArif?tab=repositories](https://github.com/AzizulHakimArif?tab=repositories)
 
